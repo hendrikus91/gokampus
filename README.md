@@ -10,6 +10,7 @@
 - jalankan perintah **__php artisan migrate__**
 - jalankan perintah **__php artisan db:seed__**
 - jalankan perintah **__php artisan storage:link__**
+- jalankan perintah **__npm run dev__**
 - jalankan perintah **__php artisan serve__** ( Biasanya locahost:8000 jika port belum digunakan )
 - buka halaman http://localhost:8000
 - masukan email **__admin@admin.com__** dengan password **__password__**
